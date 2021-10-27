@@ -11,4 +11,11 @@
     <string name="fruit">Fruit</string>
     <string name="midi">Midi</string>
     <string name="soir">Soir</string>
+    <string name="temperature">temperature °C</string>
+    <string name="vitesse_du_vent_km_h">vitesse du vent km/h</string>
+    <string-array name="etat_ciel">
+        <item>dégagé</item>
+        <item>couvert</item>
+        <item>pluvieux</item>
+    </string-array>
 </resources>
