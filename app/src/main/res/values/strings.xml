@@ -5,4 +5,10 @@
     <string name="cancelation">Annuler</string>
     <string name="cancelall">Annuler tout</string>
     <string name="motdepasse">mot de passe</string>
+    <string name="entree">entree</string>
+    <string name="plat_principal">plat principal</string>
+    <string name="fromage">Fromage</string>
+    <string name="fruit">Fruit</string>
+    <string name="midi">Midi</string>
+    <string name="soir">Soir</string>
 </resources>
